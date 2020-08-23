@@ -1,0 +1,28 @@
+{
+	"name": "neixt",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Francis Amidu",
+	"license": "MIT",
+	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "*",
+		"@fortawesome/free-solid-svg-icons": "*",
+		"@fortawesome/react-fontawesome": "*",
+		"@types/node": "*",
+		"@types/react": "*",
+		"@zeit/next-sass": "*",
+		"axios": "*",
+		"next": "*",
+		"node-sass": "*",
+		"react": "*",
+		"react-dom": "*",
+		"tsconfig-paths-webpack-plugin": "*",
+		"typescript": "*",
+		"uuid": "*"
+	},
+	"scripts": {
+		"serve": "next",
+		"build": "next build",
+		"start": "next start"
+	}
+}
